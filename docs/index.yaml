@@ -3,7 +3,7 @@ entries:
   myapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-08T06:12:32.191101652Z"
+    created: "2022-05-08T08:04:30.557018764Z"
     description: A Helm chart for Kubernetes
     digest: 02caf4980fa0aa8dc4bf08c7508eca4543d5ca5831cba33af041798fdd1bc794
     name: myapp
@@ -14,12 +14,12 @@ entries:
   titanic:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-08T06:12:32.192013073Z"
+    created: "2022-05-08T08:04:30.557659441Z"
     description: A Helm chart for Kubernetes
-    digest: df7cb2c9b64890bd7f8cb4ead769631b1f41eae56828bbce4d5c62e1d90c927a
+    digest: 12f634aa190a2b9b7af8d762823f2177b1ee745837349af6b85392fce914d3a0
     name: titanic
     type: application
     urls:
     - https://muhammedsaidkaya.github.io/chart-museum-test/titanic-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-08T06:12:32.189913676Z"
+generated: "2022-05-08T08:04:30.556275865Z"
